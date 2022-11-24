@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+See also discontinued projects below:
+1. https://github.com/Seungwoo-Yu-Projects-2020
+2. https://github.com/Seungwoo-Yu-Projects-2021
+3. https://github.com/Seungwoo-Yu-Projects-2022
