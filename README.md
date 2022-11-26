@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+See also another of me in GitLab: https://gitlab.com/Seungwoo-Yu
+
 See also discontinued projects below:
 1. https://github.com/Seungwoo-Yu-Projects-2020
 2. https://github.com/Seungwoo-Yu-Projects-2021
