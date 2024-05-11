@@ -22,3 +22,4 @@ See also discontinued projects below:
 2. https://github.com/Seungwoo-Yu-Projects-2021
 3. https://github.com/Seungwoo-Yu-Projects-2022
 4. https://github.com/Seungwoo-Yu-Projects-2023
+5. https://github.com/Seungwoo-Yu-Projects-2024
